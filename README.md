@@ -2,6 +2,6 @@ Mapper
 
 ====================
 
-Moved to [Mapbox Playground](./mapbox/)
+Moved to [Mapbox Playground](https://dkozhukhar.github.io/mapbox//mapbox/)
 
-Lays here as a memorial.
+It lays here as a memorial to the ancient deeds.
